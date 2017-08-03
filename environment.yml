@@ -7,6 +7,7 @@ dependencies:
  - matplotlib
  - scikit-image
  - ipywidgets
+ - progressbar2
 
 channels:
  - conda-forge
