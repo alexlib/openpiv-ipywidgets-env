@@ -5,12 +5,10 @@ dependencies:
  - scipy
  - jupyter
  - matplotlib
+ - cython
  - scikit-image
  - ipywidgets
  - progressbar2
-
-channels:
- - conda-forge
-
-dependencies:
- - openpiv
+ - pip
+- pip:
+    - pypi-openpiv
