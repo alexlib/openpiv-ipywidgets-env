@@ -1,0 +1,15 @@
+name: openpiv-ipywidgets
+dependencies:
+ - python=3
+ - numpy
+ - scipy
+ - jupyter
+ - matplotlib
+ - scikit-image
+ - ipywidgets
+
+channels:
+ - conda-forge
+
+dependencies:
+ - openpiv
